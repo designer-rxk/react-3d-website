@@ -2,9 +2,9 @@
 
 React website using multiple 3D assets.
 
-To run:
+### To run:
 * Open code sandbox </br>
-Or </br>
+### Or </br>
 Clone the project
 * Install dependencies (npm install or npm i)
 * Npm start
