@@ -10,4 +10,4 @@ Open code sandbox (https://pqgzlp.csb.app/)
 * Clone the project
 * Install dependencies (npm install or npm i)
 * Npm start in the terminal;
-* Check http://localhost:3000
+* Check the localhost (http://localhost:3000)
